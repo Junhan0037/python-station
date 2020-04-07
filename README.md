@@ -13,4 +13,4 @@
 Selenium 익히기
 
 ## Images
-<img src="/images/capture1.PNG" width="450px" height="300px" title="capture" alt="capture1"></img>
+<img src="/images/capture1.PNG" width="900px" height="450px" title="capture" alt="capture1"></img>
