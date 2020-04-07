@@ -11,3 +11,6 @@
 [test02.py]
 
 Selenium 익히기
+
+## Images
+<img src="/images/capture1.PNG" width="450px" height="300px" title="capture" alt="capture1"></img>
